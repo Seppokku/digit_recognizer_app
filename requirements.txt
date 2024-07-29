@@ -5,3 +5,4 @@ torchvision
 matplotlib
 streamlit-drawable-canvas==0.9.3
 opencv-python==4.10.0.84
+opencv-python-headless
