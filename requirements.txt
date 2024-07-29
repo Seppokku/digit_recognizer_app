@@ -3,3 +3,4 @@ Pillow
 torch 
 torchvision 
 matplotlib
+streamlit-drawable-canvas==0.9.3
